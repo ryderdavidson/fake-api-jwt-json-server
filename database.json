@@ -123,4 +123,18 @@
       "productId": 3
     }
   ]
+  "questions": [
+    {
+      "id": 1,
+      "question":"what makes you qualified for this job?"
+    },
+    {
+      "id": 2,
+      "question":"what is your greatest weakness?"
+    },
+    {
+      "id": 3,
+      "question":"do you have any final questions for us?"
+    }
+  ]
 }
